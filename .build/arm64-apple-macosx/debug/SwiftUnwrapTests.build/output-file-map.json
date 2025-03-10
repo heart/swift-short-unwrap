@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/narongritkanhanoi/Downloads/swift-short-unwrap/.build/arm64-apple-macosx/debug/SwiftUnwrapTests.build/master.swiftdeps"
+  },
+  "/Users/narongritkanhanoi/Downloads/swift-short-unwrap/Tests/SwiftUnwrapTests/SwiftUnwrapTests.swift": {
+    "dependencies": "/Users/narongritkanhanoi/Downloads/swift-short-unwrap/.build/arm64-apple-macosx/debug/SwiftUnwrapTests.build/SwiftUnwrapTests.d",
+    "object": "/Users/narongritkanhanoi/Downloads/swift-short-unwrap/.build/arm64-apple-macosx/debug/SwiftUnwrapTests.build/SwiftUnwrapTests.swift.o",
+    "swiftmodule": "/Users/narongritkanhanoi/Downloads/swift-short-unwrap/.build/arm64-apple-macosx/debug/SwiftUnwrapTests.build/SwiftUnwrapTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/narongritkanhanoi/Downloads/swift-short-unwrap/.build/arm64-apple-macosx/debug/SwiftUnwrapTests.build/SwiftUnwrapTests.swiftdeps"
+  }
+}

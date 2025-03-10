@@ -1,0 +1,4 @@
+module SwiftUnwrapPackageTests {
+    header "/Users/narongritkanhanoi/Downloads/swift-short-unwrap/.build/arm64-apple-macosx/debug/SwiftUnwrapPackageTests.build/SwiftUnwrapPackageTests-Swift.h"
+    requires objc
+}
